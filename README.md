@@ -6,7 +6,7 @@ Completed Visualizations
 
 [Line Chart](https://bl.ocks.org/sajudson/ad02a7cf9ba7fd7eed0017ecd4dd0b13)
 
-![](thumbnails/co2_line/thumbnail.png)
+![](thumbnails/co2_line/Thumbnail.png)
 
 Work in Progress 
 
@@ -66,7 +66,7 @@ ORIGINAL DATA SOURCE: U.S. Department of Education, National Center for Educatio
 [Bike Share Users by Month](https://bl.ocks.org/sajudson/81785b46712ce7480ad2556800db9dde)
 ![](thumbnails/dcbs_month/thumbnail.png) 
 
-Ideas for future work
+### Ideas for future work
 
 - box and whisker - by month, season or day of week
 - filters: month/holiday/workingday/weekday/year
@@ -83,11 +83,11 @@ This data is from [UCI Machine Learning Repository: Bike Sharing Data Set](https
 The dataset file can be found [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00275/Bike-Sharing-Dataset.zip) as a zip archive.
 
 
-##Sources of potential inspiration
-[Bostock filter example](http://bl.ocks.org/mbostock/3943967)
-[Bostock line graph](https://bl.ocks.org/mbostock/3883245)
-[Bostock Streamgraph](https://bl.ocks.org/mbostock/4060954)
-[Curran Streamgraph]()
+## Sources of potential inspiration
 
-[d3 vs JS filtering](http://bl.ocks.org/kobben/8576867)
+- [Bostock filter example](http://bl.ocks.org/mbostock/3943967)
+- [Bostock line graph](https://bl.ocks.org/mbostock/3883245)
+- [Bostock Streamgraph](https://bl.ocks.org/mbostock/4060954)
+- [Curran Streamgraph](https://bl.ocks.org/curran/30e50fe82819ef73c6b8d9f2d31b99a8)
+- [d3 vs JS filtering](http://bl.ocks.org/kobben/8576867)
 
