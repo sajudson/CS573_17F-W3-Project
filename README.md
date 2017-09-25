@@ -28,14 +28,17 @@ The link to the CDIAC website was found on [gapminder](http://www.gapminder.org/
 ## Computer Science Degrees by Level and Gender, 1971-2011
 
 [Fraction of Women Awarded Degrees](https://bl.ocks.org/sajudson/826ac078c16fdadbc3a7ab7ca98cda94)
+
 ![](thumbnails/cs_by_gender/thumbnail.png)
 
 
 [Fraction of Women Awarded Degrees with Total Number of Degrees Awarded (encoded as size)](https://bl.ocks.org/sajudson/8c527fe6a8bef275851f8e067892851a)
-![](thumbnails/cs_by_gender+total/thumbnail.png )
+
+![](thumbnails/cs_by_gender_total/thumbnail.png)
 
 
 [Total Number of Degrees Awarded](https://bl.ocks.org/sajudson/159113faca3611883a34bdaf460c020a)
+
 ![](thumbnails/cs_total/thumbnail.png) 
 
 
