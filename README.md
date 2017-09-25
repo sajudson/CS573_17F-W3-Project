@@ -10,7 +10,7 @@ Completed Visualizations
 
 Work in Progress 
 
-s[Streamgraph](https://bl.ocks.org/sajudson/5b1a5f1c8ad0d3b858b3ec3a385d7e0c)
+[Streamgraph](https://bl.ocks.org/sajudson/5b1a5f1c8ad0d3b858b3ec3a385d7e0c)
 
 
 [Data Summary from Week 2](https://bl.ocks.org/sajudson/d1094a88bc612e2b0d8ac7952080f0db)
