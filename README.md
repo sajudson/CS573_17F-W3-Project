@@ -53,11 +53,12 @@ ORIGINAL DATA SOURCE: U.S. Department of Education, National Center for Educatio
 
 Ideas for future work
 
-*box and whisker - by month, season or day of week
-*filters: month/holiday/workingday/weekday/year
-*show multiple visualizations on one page, with filter
-*brush to filter/focus
-*consider use of hourly data (limited to single year) for final project
+- box and whisker - by month, season or day of week
+- filters: month/holiday/workingday/weekday/year
+- show multiple visualizations on one page, with filter
+- brush to filter/focus
+- paralell axes plot
+- consider use of hourly data (limited to single year) for final project
 
 [Data Summary from Week2](https://bl.ocks.org/sajudson/772c6d0f442c16f98928bf5831646cb0)
 The data set contains the number of bike share system users (casual and registered) for each day (and hour) for two years (Jan 2011 - Dec 2012), as well as the day type (holiday, workingday), weather situation, temperature and humidity, apparent temperature and windspeed.
@@ -72,4 +73,6 @@ The dataset file can be found [here](https://archive.ics.uci.edu/ml/machine-lear
 [Bostock line graph](https://bl.ocks.org/mbostock/3883245)
 [Bostock Streamgraph](https://bl.ocks.org/mbostock/4060954)
 [Curran Streamgraph]()
+
+[d3 vs JS filtering](http://bl.ocks.org/kobben/8576867)
 
