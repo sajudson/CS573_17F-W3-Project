@@ -3,11 +3,14 @@
 ## Global Carbon Emissions, 1751-2014
 
 Completed Visualizations
+
 [Line Chart](https://bl.ocks.org/sajudson/ad02a7cf9ba7fd7eed0017ecd4dd0b13)
+
 ![](thumbnails/co2_line/thumbnail.png)
 
 Work in Progress 
-[Streamgraph](https://bl.ocks.org/sajudson/5b1a5f1c8ad0d3b858b3ec3a385d7e0c)
+
+s[Streamgraph](https://bl.ocks.org/sajudson/5b1a5f1c8ad0d3b858b3ec3a385d7e0c)
 
 
 [Data Summary from Week 2](https://bl.ocks.org/sajudson/d1094a88bc612e2b0d8ac7952080f0db)
@@ -34,7 +37,7 @@ The link to the CDIAC website was found on [gapminder](http://www.gapminder.org/
 
 [Fraction of Women Awarded Degrees with Total Number of Degrees Awarded (encoded as size)](https://bl.ocks.org/sajudson/8c527fe6a8bef275851f8e067892851a)
 
-![](thumbnails/cs_by_gender_total/thumbnail.png)
+![](thumbnails/cs_gt/thumbnail.png)
 
 
 [Total Number of Degrees Awarded](https://bl.ocks.org/sajudson/159113faca3611883a34bdaf460c020a)
