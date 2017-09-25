@@ -1,8 +1,8 @@
-CS 573 17F Week 3 Project Assignment
+#CS 573 17F Week 3 Project Assignment
 
 
 
-# Global Carbon Emissions, 1751-2014
+## Global Carbon Emissions, 1751-2014
 
 [Line Chart]()
 
@@ -15,6 +15,7 @@ Ideas for future work
 [Curran Streamgraph]()
 
 [Data Summary from Week 2](https://bl.ocks.org/sajudson/d1094a88bc612e2b0d8ac7952080f0db)
+
 This data set contains the total annual global carbon emssions, in units of one million metric tons of carbon, from 1751 to 2014, by source. The sources of these emissions include combustion of fossil fuels (gas, liquid, and solid), cement manufacturing, and gas flaring. Per capita emissions data is provided starting in 1950, once reliable global population estimate were available
 
 This data was compiled by the [Carbon Dioxide Information Analysis Center](http://cdiac.ornl.gov/&sa=D&ust=1505598980404000&usg=AFQjCNE2q30jmgOabhyONR2h038d32fyjQ)
@@ -28,7 +29,7 @@ The link to the CDIAC website was found on [gapminder](http://www.gapminder.org/
 
 
 
-# Computer Science Degrees by Level and Gender, 1971-2011
+## Computer Science Degrees by Level and Gender, 1971-2011
 
 [Fraction of Women Awarded Degrees](https://bl.ocks.org/sajudson/826ac078c16fdadbc3a7ab7ca98cda94)
 
@@ -38,7 +39,7 @@ The link to the CDIAC website was found on [gapminder](http://www.gapminder.org/
 
 [Data Summary from Week2](https://bl.ocks.org/sajudson/772c6d0f442c16f98928bf5831646cb0)
 
-#DC Bike Share Data Set
+## DC Bike Share Data Set
 
 [Bike Share Users vs Apparent Temperature](https://bl.ocks.org/sajudson/e482a1b939f342aa2d486481b318748c)
 
