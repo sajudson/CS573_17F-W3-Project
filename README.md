@@ -2,15 +2,12 @@
 
 ## Global Carbon Emissions, 1751-2014
 
-[Line Chart]()
+Completed Visualizations
+[Line Chart](https://bl.ocks.org/sajudson/ad02a7cf9ba7fd7eed0017ecd4dd0b13)
 
 Work in Progress 
 [Streamgraph](https://bl.ocks.org/sajudson/5b1a5f1c8ad0d3b858b3ec3a385d7e0c)
 
-
-Ideas for future work
-[Bostock Streamgraph](https://bl.ocks.org/mbostock/4060954)
-[Curran Streamgraph]()
 
 [Data Summary from Week 2](https://bl.ocks.org/sajudson/d1094a88bc612e2b0d8ac7952080f0db)
 
@@ -37,6 +34,17 @@ The link to the CDIAC website was found on [gapminder](http://www.gapminder.org/
 
 [Data Summary from Week2](https://bl.ocks.org/sajudson/772c6d0f442c16f98928bf5831646cb0)
 
+This data set contains the number of bachelors, masters, and doctoral degrees in computer science (and related fields) awarded each year between 1971 and 2011 to men and women, by degree level
+
+This data is from National Center for Education Statistics 
+[Table 349](https://nces.ed.gov/programs/digest/d12/tables/dt12_349.asp), "Degrees in computer and information sciences conferred by degree-granting institutions, by level of degree and sex of student: 1970-71 through 2010-11" 
+
+The original file can be found [here](https://nces.ed.gov/programs/digest/d12/tables/xls/tabn349.xls) in MS Excel format. 
+Original data set was reformated (unstacked) in MS Excel to facilitate visualization.
+
+
+ORIGINAL DATA SOURCE: U.S. Department of Education, National Center for Education Statistics, Higher Education General Information Survey (HEGIS), "Degrees and Other Formal Awards Conferred" surveys, 1970-71 through 1985-86; Integrated Postsecondary Education Data System (IPEDS), "Completions Survey" (IPEDS-C:87-99); and IPEDS Fall 2000 through Fall 2011, Completions component. (This table was prepared July 2012.)
+
 ## DC Bike Share Data Set
 
 [Bike Share Users vs Apparent Temperature](https://bl.ocks.org/sajudson/e482a1b939f342aa2d486481b318748c)
@@ -45,11 +53,11 @@ The link to the CDIAC website was found on [gapminder](http://www.gapminder.org/
 
 Ideas for future work
 
-month box and whisker
-filters: month/holiday/workingday/weekday/year
-http://bl.ocks.org/mbostock/3943967
-
-Linegraph :https://bl.ocks.org/mbostock/3883245
+*box and whisker - by month, season or day of week
+*filters: month/holiday/workingday/weekday/year
+*show multiple visualizations on one page, with filter
+*brush to filter/focus
+*consider use of hourly data (limited to single year) for final project
 
 [Data Summary from Week2](https://bl.ocks.org/sajudson/772c6d0f442c16f98928bf5831646cb0)
 The data set contains the number of bike share system users (casual and registered) for each day (and hour) for two years (Jan 2011 - Dec 2012), as well as the day type (holiday, workingday), weather situation, temperature and humidity, apparent temperature and windspeed.
@@ -57,4 +65,11 @@ The data set contains the number of bike share system users (casual and register
 This data is from [UCI Machine Learning Repository: Bike Sharing Data Set](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 
 The dataset file can be found [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00275/Bike-Sharing-Dataset.zip) as a zip archive.
+
+
+##Sources of potential inspiration
+[Bostock filter example](http://bl.ocks.org/mbostock/3943967)
+[Bostock line graph](https://bl.ocks.org/mbostock/3883245)
+[Bostock Streamgraph](https://bl.ocks.org/mbostock/4060954)
+[Curran Streamgraph]()
 
