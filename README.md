@@ -4,7 +4,7 @@
 
 Completed Visualizations
 [Line Chart](https://bl.ocks.org/sajudson/ad02a7cf9ba7fd7eed0017ecd4dd0b13)
-![co2 vis 1 ](thumbnails/co2_line/thumbnail.png)
+![](thumbnails/co2_line/thumbnail.png)
 
 Work in Progress 
 [Streamgraph](https://bl.ocks.org/sajudson/5b1a5f1c8ad0d3b858b3ec3a385d7e0c)
@@ -28,15 +28,15 @@ The link to the CDIAC website was found on [gapminder](http://www.gapminder.org/
 ## Computer Science Degrees by Level and Gender, 1971-2011
 
 [Fraction of Women Awarded Degrees](https://bl.ocks.org/sajudson/826ac078c16fdadbc3a7ab7ca98cda94)
-![cs vis 1](thumbnails/cs_by_gender/thumbnail.png)
+![](thumbnails/cs_by_gender/thumbnail.png)
 
 
 [Fraction of Women Awarded Degrees with Total Number of Degrees Awarded (encoded as size)](https://bl.ocks.org/sajudson/8c527fe6a8bef275851f8e067892851a)
-![cs vis 2](thumbnails/cs_by_gender+total/thumbnail.png )
+![](thumbnails/cs_by_gender+total/thumbnail.png )
 
 
 [Total Number of Degrees Awarded](https://bl.ocks.org/sajudson/159113faca3611883a34bdaf460c020a)
-![cs vis 3](thumbnails/cs_total/thumbnail.png) 
+![](thumbnails/cs_total/thumbnail.png) 
 
 
 [Data Summary from Week2](https://bl.ocks.org/sajudson/772c6d0f442c16f98928bf5831646cb0)
@@ -55,10 +55,10 @@ ORIGINAL DATA SOURCE: U.S. Department of Education, National Center for Educatio
 ## DC Bike Share Data Set
 
 [Bike Share Users vs Apparent Temperature](https://bl.ocks.org/sajudson/e482a1b939f342aa2d486481b318748c)
-![bike share vis1](thumbnails/dcbs_atemp/thumbnail.png) 
+![](thumbnails/dcbs_atemp/thumbnail.png) 
 
 [Bike Share Users by Month](https://bl.ocks.org/sajudson/81785b46712ce7480ad2556800db9dde)
-![bike share vis1](thumbnails/dcbs_month/thumbnail.png) 
+![](thumbnails/dcbs_month/thumbnail.png) 
 
 Ideas for future work
 
