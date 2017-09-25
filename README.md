@@ -1,6 +1,4 @@
-#CS 573 17F Week 3 Project Assignment
-
-
+# CS 573 17F Week 3 Project Assignment
 
 ## Global Carbon Emissions, 1751-2014
 
