@@ -1,5 +1,5 @@
 CS 573 17F Week 3 Project Assignment
-2017-09-24 Initial Submission
+2017-09-26 Submission
 
 Github Repo summarizing current status of this assignment (including work in progress)
 https://github.com/sajudson/CS573_17F-W3-Project
@@ -9,6 +9,12 @@ Global Carbon Emissions, 1751-2014
 
 Line Chart
 https://bl.ocks.org/sajudson/ad02a7cf9ba7fd7eed0017ecd4dd0b13
+
+StreamGraph
+https://bl.ocks.org/sajudson/5b1a5f1c8ad0d3b858b3ec3a385d7e0c
+
+Stacked Area Chart
+https://bl.ocks.org/sajudson/cf7c08c3538c3cfe78abebb77fd06f98
 
 -------------------------------------------------------------------------------
 Computer Science Degrees by Level and Gender, 1971-2011
@@ -33,12 +39,6 @@ https://bl.ocks.org/sajudson/81785b46712ce7480ad2556800db9dde
 
 -------------------------------------------------------------------------------
 
-Other Work in Progress 
-CO2 Streamgraph
-https://bl.ocks.org/sajudson/5b1a5f1c8ad0d3b858b3ec3a385d7e0c
 
 
 
-https://bl.ocks.org/sajudson/ad02a7cf9ba7fd7eed0017ecd4dd0b13
-https://bl.ocks.org/sajudson/8c527fe6a8bef275851f8e067892851a
-https://bl.ocks.org/sajudson/81785b46712ce7480ad2556800db9dde
